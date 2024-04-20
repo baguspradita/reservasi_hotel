@@ -1,0 +1,84 @@
+html {
+	scroll-behavior: smooth;
+  }
+
+.slider {
+    margin-bottom: 45px;
+}
+
+.slider h2,
+.slider h5 {
+    text-shadow: 1px 1px 3px rgb(0, 0, 0,0.7 );
+}
+
+.logo img{
+	height: 115px;
+	margin-top: -23px;
+}
+
+.logo-kode {
+	height: 40px;
+	
+}
+
+.brand-logo{
+	margin-left: -20px;
+}
+
+.header {
+	margin-bottom: 45px;
+}
+
+.header h3 {
+	text-align: center;
+	font-weight: bold;
+	color: #424242;
+}
+
+.header p {
+	text-align: center;
+}
+
+.content-img1 img{
+    border-radius: 10px;
+    height: 250px;
+    width: 400px;
+}
+
+.content-img2 img{
+    border-radius: 10px;
+    height: 250px;
+    width: 400px;
+}
+
+.content-img3 img{
+    border-radius: 10px;
+    height: 250px;
+    width: 400px;
+}
+
+.content-des h4 {
+	font-weight: bold;
+	color: #424242;
+}
+
+.footer {
+height: 120px !important;
+margin-top: 40px;
+}
+
+.footer p {
+   margin-top: 30px;
+    color: white;
+}
+
+.text-muted {
+	text-align: center;
+}
+
+.btn-back {
+margin-left: 65px;
+}
+
+
+/* View User */
